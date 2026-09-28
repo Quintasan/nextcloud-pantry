@@ -650,7 +650,7 @@ OC.L10N.register(
     "Could not restore from trash" : "Kontrolný zoznam sa nepodarilo obnoviť z koša",
     "Checklist archived" : "Kontrolný zoznam archivovaný",
     "Checklist unarchived" : "Kontrolný zoznam odarchivovaný",
-    "Could not restore from the archive" : "Kontrolný zoznam sa nepodarilo obnoviť z archívu",
+    "Could not restore from the archive" : "Nepodarilo sa obnoviť z archívu",
     "House not found" : "Domácnosť sa nenašla",
     "This house does not exist or you no longer have access." : "Táto domácnosť neexistuje alebo k nej už nemáte prístup.",
     "Items in the trash are permanently deleted after {n} day(s)." : "Položky v koši sa po {n} dňoch natrvalo odstránia.",
